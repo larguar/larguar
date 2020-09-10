@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there, I’m Lauren 👋🏼
+I’m a designer/developer hybrid based in Baltimore, Maryland. Since graduating in 2016, I’ve been building my small business [Pinultimate](https://pinultimate.co/) and designing and developing websites for a variety of clients. My daily fuel is coffee and an impossible dream to one day know how to do everything.
+
+My love for digital design bloomed when I created my first Myspace page in 2007 and discovered the wonderful world of code. The dev life allows for the perfect balance of creative and technical, while my background in design forces intuitively detailed outcomes.
+
+My four years at MICA taught me the value of taking unconventional design approaches to solve problems and the importance of being open minded about criticism. I’m a huge typography nerd and I’m more likely to trust a company with a nice looking website.
 
 <!--
 **siminski/siminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
