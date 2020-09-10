@@ -5,6 +5,8 @@ My love for digital design bloomed when I created my first Myspace page in 2007 
 
 My four years at MICA taught me the value of taking unconventional design approaches to solve problems and the importance of being open minded about criticism. I’m a huge typography nerd and I’m more likely to trust a company with a nice looking website.
 
+![HTML Badge](https://img.shields.io/badge/-HTML-323795) ![CSS Badge](https://img.shields.io/badge/-CSS-01A990) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-539436) ![API Badge](https://img.shields.io/badge/-API-F58021) ![Node.JS Badge](https://img.shields.io/badge/-Node.JS-CF1848) ![Express.JS Badge](https://img.shields.io/badge/-Express.JS-750460) ![MySQL Badge](https://img.shields.io/badge/-MySQL-61489C)  
+
 <!--
 **siminski/siminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
