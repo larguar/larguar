@@ -9,8 +9,7 @@ My four years at MICA taught me the value of taking unconventional design approa
 
 
 ## Find Me Online At:
-* Email: laurensiminski@gmail.com
-* Website: https://siminski.co
+* Website: [siminski.co](https://siminski.co)
 * Github: [@siminski](https://github.com/siminski)
 * LinkedIn: [@laurensiminski](https://www.linkedin.com/in/laurensiminski/)
 * Behance: [@siminski](https://www.behance.net/siminski)
