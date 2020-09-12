@@ -1,5 +1,5 @@
 # Hi there, I’m Lauren 👋🏼
-### I’m a designer/developer hybrid based in Baltimore, Maryland. Since graduating in 2016, I’ve been building my small business [Pinultimate](https://pinultimate.co/) and designing and developing websites for a variety of clients. My daily fuel is coffee and an impossible dream to one day know how to do everything.
+I’m a designer/developer hybrid based in Baltimore, Maryland. Since graduating in 2016, I’ve been building my small business [Pinultimate](https://pinultimate.co/) and designing and developing websites for a variety of clients. My daily fuel is coffee and an impossible dream to one day know how to do everything.
 
 My love for digital design bloomed when I created my first Myspace page in 2007 and discovered the wonderful world of code. The dev life allows for the perfect balance of creative and technical, while my background in design forces intuitively detailed outcomes.
 
