@@ -3,7 +3,7 @@ I’m a designer/developer hybrid based in Baltimore, Maryland. Since graduating
 
 My love for digital design bloomed when I created my first Myspace page in 2007 and discovered the wonderful world of code. The dev life allows for the perfect balance of creative and technical, while my background in design forces intuitively detailed outcomes.
 
-![HTML Badge](https://img.shields.io/badge/-HTML-156DB5) ![CSS Badge](https://img.shields.io/badge/-CSS-01A990) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-539436) ![API Badge](https://img.shields.io/badge/-API-F58021) ![Node Badge](https://img.shields.io/badge/-Node-CF1848) ![MySQL Badge](https://img.shields.io/badge/-MySQL-750460) ![Express Badge](https://img.shields.io/badge/-Express-61489C) ![React Badge](https://img.shields.io/badge/-React-323795) 
+![HTML Badge](https://img.shields.io/badge/-HTML-156DB5) ![CSS Badge](https://img.shields.io/badge/-CSS-01A990) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-01886A) ![API Badge](https://img.shields.io/badge/-API-539436) ![Node Badge](https://img.shields.io/badge/-Node-F58021) ![MySQL Badge](https://img.shields.io/badge/-MySQL-CF1848) ![Express Badge](https://img.shields.io/badge/-Express-750460) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-61489C) ![React Badge](https://img.shields.io/badge/-React-323795) 
 
 
 ## Find Me Online At:
