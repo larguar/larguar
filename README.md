@@ -8,11 +8,7 @@ My love for digital design bloomed when I created my first Myspace page in 2007 
 
 ## Find Me Online At:
 * Website: [siminski.co](https://siminski.co)
-* Github: [@siminski](https://github.com/siminski)
 * LinkedIn: [@laurensiminski](https://www.linkedin.com/in/laurensiminski/)
-* Behance: [@siminski](https://www.behance.net/siminski)
-* Dribbble: [@siminski](https://dribbble.com/siminski)
-* CodePen: [@siminski](https://codepen.io/siminski)
 
 
 ## Donate
