@@ -9,7 +9,6 @@ My love for digital design bloomed when I created my first Myspace page in 2007 
 ## Find Me Online At:
 * Website ➺ [larguar.com](https://larguar.com)
 * LinkedIn ➺ [@larguar](https://www.linkedin.com/in/larguar/)
-* Behance ➺ [@larguar](https://www.behance.net/larguar)
 
 
 ## Donate
