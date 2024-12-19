@@ -1,12 +1,13 @@
 # Hi there, I’m Lauren 👋🏼
 I’m a designer/developer hybrid based in Columbia, Maryland. Since graduating from MICA in 2016, I’ve been building my small business [Pinultimate](https://pinultimate.co/) and designing and developing websites for a breadth of clients.
 
-My love for web design commenced when I created my first Myspace page in 2007 and discovered the wonderful world of code. The dev life allows for the perfect balance of creative and technical, while my background in design drives intuitively detailed outcomes.
+My love for web design started when I signed up for Myspace in 2007 and discovered the wonderful world of code. The dev life allows for the perfect balance of creative and technical, while my background in design drives intuitively detailed outcomes.
 
 
-## Find Me Online At:
-* Email: laurenguardala@gmail.com
+## Find Me Online
 * Website: [larguar.com](https://larguar.com)
+* LinkedIn: [@larguar](https://www.linkedin.com/in/larguar)
+* Behance: [@larguar](https://www.behance.net/larguar)
 * Github: [@larguar](https://github.com/larguar)
 
 
